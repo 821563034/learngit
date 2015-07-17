@@ -4,4 +4,4 @@ git has a mutable
 git track change
 commit github
 creating a new branch is quick and simple
-stupid
+stupid stupid

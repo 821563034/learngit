@@ -3,4 +3,5 @@ git is free software distribute under the GPL
 git has a mutable
 git track change
 commit github
-creating a new branch is simple
+creating a new branch is quick and simple
+
